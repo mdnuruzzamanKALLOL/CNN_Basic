@@ -1,2 +1,0 @@
-# CNN_Basic
-CNN
